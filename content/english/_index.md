@@ -1,53 +1,28 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Transforming Ideas into Actionable Tech Solutions"
+  content: "Radicula helps non-tech businesses turn ideas into clear, executable projects. Our expertise ensures you understand the necessary technology, saving you time and money. We guide you from concept to reality."
   image: "/images/banner.png"
   button:
-    enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    enable: false
+    label: ""
+    link: ""
+
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "What we can do for you"
     image: "/images/service-1.png"
-    content: "XXXXXXXXXXXX Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "At Radicula, we offer a comprehensive range of services designed to help non-tech businesses turn their innovative ideas into successful technology projects. Our expertise ensures that you have the guidance and support you need at every stage of the process."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "**Idea Refinement:** Help non-tech businesses clarify and refine their ideas into actionable projects."
+      - "**Technology Consulting:** Advise on the best platforms, tools, and infrastructure for your project's success."
+      - "**Project Blueprinting:** Create detailed roadmaps and blueprints that outline project requirements and steps."
+      - "**Cost and Time Efficiency:** Assist in saving time and money by avoiding common pitfalls and choosing the right technologies."
+      - "**Partner Selection:** Help in selecting the right software development partners for project implementation."
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-    button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
-
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
-    button:
-      enable: false
-      label: ""
-      link: ""
 ---
